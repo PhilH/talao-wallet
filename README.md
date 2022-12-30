@@ -12,7 +12,7 @@ Our ambition for this wallet is that a project team can integrate it into its ap
 
 Our ambition is also to offer an SSI wallet adapted to the European market, taking into account the specifications that have been put forward by the EU working groups both in terms of technology and regulation. 
 
-Finally, our project is to offer for the first time a smartphone wallet available on the Apple and Google stores which carries the identity in the format of the Tezos channel ([did: tz]( https://did-tezos-draft.spruceid.com/ )). The Tezos blockchain has many advantages for SSI, in particu projectslar that of open governance, high security and by a proof of stake consensus which makes it one of the most popular blockchains. less energy consuming in the world. This wallet allows all Tezos applications to offer their users an SSI identity to access their services.
+Finally, our project is to offer for the first time a smartphone wallet available on the Apple and Google stores which carries the identity in the format of the Tezos channel ([did: tz]( https://did-tezos-draft.spruceid.com/ )). The Tezos blockchain has many advantages for SSI, in particular open governance, high security and a proof of stake consensus which makes it one of the most popular blockchains. less energy consuming in the world. This wallet allows all Tezos applications to offer their users an SSI identity to access their services.
  
 ## Architecture
 
